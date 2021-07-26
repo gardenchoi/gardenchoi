@@ -1,7 +1,7 @@
 - 👋 Thanks for visiting! I’m @gardenchoi
 - 👀 I’m a product manager interested in data science and AI
 - 🌱 I’m currently learning data analysis with Python
-- 💞️ I’m looking to collaborate on any kinds of projects that would expand my 
+- 💞️ I’m looking to collaborate on any kinds of projects
 - 📫 E-mail: jungwonchoiseoul@gmail.com 
 
 <!---
